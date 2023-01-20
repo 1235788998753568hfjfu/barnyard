@@ -14,7 +14,7 @@
 	"item.barnyard.truffle": "松露",
 	"item.barnyard.truffle_stew": "菌种杂烩",
 
-	"tooltip.food_item": "When Consumed:",
+	"tooltip.food_item": "食用时:",
 	"tooltip.truffle_stew.effect_duration": "急迫 (4:00)",
 	"tooltip.truffle_stew.effect.mine": "+20% 挖掘速度",
 	"tooltip.truffle_stew.effect.attack": "+10% 攻击速度",
